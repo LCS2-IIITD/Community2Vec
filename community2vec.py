@@ -3,9 +3,6 @@
 '''
 need to add comments at each significant step
 '''
-
-
-
 import networkx as nx
 import numpy as np
 from scipy import spatial
